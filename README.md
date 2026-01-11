@@ -34,7 +34,7 @@ hotel-price-predictor/
 
 1. Clone the repository
 bash
-git clone https://github.com/kammabhargav8008/hotel-price-predictor.git
+git clone https://github.com/kammabhargav8008/hotel-price-prediction.git
 cd hotel-price-predictor
 
 pip install -r requirements.txt
